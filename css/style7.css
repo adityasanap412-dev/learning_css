@@ -1,0 +1,62 @@
+<style>h1 {
+    background-color: brown;
+    color: rosybrown
+}
+
+.heading1 {
+    background-color: black;
+    color: white;
+}
+
+.heading2 {
+    background-color: grey;
+    color: orange;
+}
+
+.t_center {
+    text-align: center
+}
+
+.overline {
+    text-decoration: overline;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.inline {
+    text-decoration: inline;
+}
+
+.linethrough {
+    text-decoration: line-through underline overline;
+}
+
+.t_indent {
+    text-indent: 40px
+}
+
+.d {
+    letter-spacing: 10px;
+}
+
+.p1 {
+    word-spacing: 7px;
+}
+
+.p2 {
+    line-height: 30px;
+}
+
+.t_shadow {
+    color: black;
+    text-shadow: 6px 4px 2px grey
+}
+.t_shadow1{color:brown;
+text-shadow:8px 8px  4px rgb(123, 67,7);}
+.t_shadow2{color:darkblue;
+text-shadow:8px  rgb(3, 3, 65);}
+
+
+</style>
