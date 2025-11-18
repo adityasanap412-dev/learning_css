@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+.box {
+    flex: 1;
+    padding: 20px;
+    background: lightblue;
+    border: 2px solid navy;
+}
+
+/* Mobile: Switch to 1-column */
+@media (max-width: 600px) {
+    .container {
+        flex-direction: column;
+    }
+}
+</style>
+</head>
+<body>
+
+<h2>Responsive Layout</h2>
+
+<div class="container">
+    <div class="box">Column 1</div>
+    <div class="box">Column 2</div>
+</div>
+
+</body>
+</html>
