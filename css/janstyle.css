@@ -1,0 +1,21 @@
+h3{
+
+    color:white;
+text-align: center;
+    background-color: black;
+}
+h1{
+    
+    color:white;
+text-align: center;
+    background-color: black;
+}
+p{background-color: black;
+    color: yellow;
+    font-size: 30pxl  ;
+    font-style: italic;
+}
+th,td{color:red;
+    background-color: black;
+    border: ;
+}
